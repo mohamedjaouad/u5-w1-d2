@@ -11,8 +11,6 @@ public class U5W1D2Application {
     public static void main(String[] args) {
         ApplicationContext txc = SpringApplication.run(U5W1D2Application.class, args);
 
-//        Menu menu = txc.getBean(Menu.class);
-//
-//        menu.printMenu();
+
     }
 }
